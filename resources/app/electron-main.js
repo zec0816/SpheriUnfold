@@ -52,7 +52,7 @@ const createProjectWindow = (url) => {
   const windowMode = "window";
   const options = {
     show: false,
-    backgroundColor: "#000000",
+    backgroundColor: "#ffffff",
     width: 480,
     height: 360,
     minWidth: 50,
